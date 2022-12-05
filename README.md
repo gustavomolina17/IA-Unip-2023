@@ -26,7 +26,7 @@
 - [x]  Aula 04
     - Algoritmos Genéticos
 - [x]  Aula 05 
-    - 
+    - Metodologia e Técnicas de Aquisição de Conhecimento
 - [x]  Aula 06
     - Sistemas Especialistas
 - [x] Aula 07
