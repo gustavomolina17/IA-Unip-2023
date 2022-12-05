@@ -32,7 +32,7 @@
 - [x] Aula 07
     - Conceitos Básicos de Planejamento
 - [x]  Aula 08
-    - 
+    - Lógica Nebulosa
 - [x]  Aula 09
     - 
 - [x]  Aula 10
