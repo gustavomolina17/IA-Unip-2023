@@ -36,5 +36,5 @@
 - [x]  Aula 09
     - IA em Games
 - [x]  Aula 10
-    - 
+    - Aprendizado de Máquina
 
