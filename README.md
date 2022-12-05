@@ -30,7 +30,7 @@
 - [x]  Aula 06
     - Sistemas Especialistas
 - [x] Aula 07
-    - 
+    - Conceitos Básicos de Planejamento
 - [x]  Aula 08
     - 
 - [x]  Aula 09
