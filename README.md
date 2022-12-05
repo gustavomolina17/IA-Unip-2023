@@ -6,6 +6,15 @@
 ## Turmas
 - 4º / 5º Semestre - Ciência da Computação
 
+## Avaliação NP1
+- Trabalho Prático
+- Lista de Exercícios
+- Artigo
+
+## Avaliação NP2
+- Trabalho Prático
+- Lista de Exercícios
+
 ## Cronograma
 
 - [x]  Aula 01
