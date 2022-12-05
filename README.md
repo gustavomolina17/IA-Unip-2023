@@ -24,11 +24,11 @@
 - [x]  Aula 03
     - Resolução de Problemas por Meio de Busca
 - [x]  Aula 04
-    - 
+    - Algoritmos Genéticos
 - [x]  Aula 05 
     - 
 - [x]  Aula 06
-    - 
+    - Sistemas Especialistas
 - [x] Aula 07
     - 
 - [x]  Aula 08
