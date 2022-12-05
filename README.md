@@ -34,7 +34,7 @@
 - [x]  Aula 08
     - Lógica Nebulosa
 - [x]  Aula 09
-    - 
+    - IA em Games
 - [x]  Aula 10
     - 
 
