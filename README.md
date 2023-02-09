@@ -34,7 +34,7 @@
 
 ## Avaliação NP1
 - Trabalho Prático
-- Lista de Exercícios
+- Exercícios em grupos
 - Artigo
 
 ## Avaliação NP2
