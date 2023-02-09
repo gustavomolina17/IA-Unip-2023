@@ -2,18 +2,10 @@
     Inteligência Artificial UNIP - 1º Semestre de 2023
 </h1>
 
-
 ## Turmas
 - 4º / 5º Semestre - Ciência da Computação
 
-## Avaliação NP1
-- Trabalho Prático
-- Lista de Exercícios
-- Artigo
-
-## Avaliação NP2
-- Trabalho Prático
-- Lista de Exercícios
+![image](https://user-images.githubusercontent.com/70485830/217884586-36e66f3c-ba65-4639-beff-af10df9bad24.png)
 
 ## Cronograma
 
@@ -37,4 +29,17 @@
     - IA em Games
 - [x]  Aula 10
     - Aprendizado de Máquina
+
+
+
+## Avaliação NP1
+- Trabalho Prático
+- Lista de Exercícios
+- Artigo
+
+## Avaliação NP2
+- Trabalho Prático
+- Lista de Exercícios
+
+
 
