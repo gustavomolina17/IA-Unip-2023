@@ -33,9 +33,9 @@
 
 
 ## Avaliação NP1
-- Trabalho Prático
-- Exercícios em grupos
-- Artigo
+- Trabalho Prático (Valor: 5,0)
+- Exercícios em grupos (Valor: 2,0)
+- Artigo(Valor: 3,0)
 
 ## Avaliação NP2
 - Trabalho Prático
