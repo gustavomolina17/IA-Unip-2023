@@ -30,12 +30,21 @@
 - [x]  Aula 10
     - Aprendizado de Máquina
 
-
-
 ## Avaliação NP1
 - Trabalho Prático (Valor: 5,0)
 - Exercícios em grupos (Valor: 2,0)
 - Artigo (Valor: 3,0)
+
+## Instruções importantes para elaboração do artigo
+- O artigo deve ser feito em grupos de 4 alunos (Não serão aceitas entregas individuais e nem grupos com mais alunos).
+- A entrega será feita presencialmente nas seguintes datas:
+    - 16/03/2023 - Para as turmas de Quinta.
+    - 17/03/2023 - Para as turmas de Sexta.
+- Não serão aceitas entregas atrasadas ou por email.
+- Os grupos podem escolher o tema do artigo dentre as opções disponíveis no roteiro.
+- Caso seja detectado quaisquer tipos de plágio o trabalho será zerado 
+
+
 
 ## Avaliação NP2
 - Trabalho Prático
