@@ -44,7 +44,10 @@
 - Os grupos podem escolher o tema do artigo dentre as opções disponíveis no roteiro.
 - Caso seja detectado quaisquer tipos de plágio o trabalho será zerado 
 
-
+## Instruções para os exercícios em grupos
+- Os grupos devem ser os mesmos até o final do semestre.
+- Não serão aceitas entregas individuais.
+- Mínimo: 2 integrantes / Máximo: 5 integrantes.
 
 ## Avaliação NP2
 - Trabalho Prático
