@@ -42,7 +42,7 @@
     - 17/03/2023 - Para as turmas de Sexta.
 - Não serão aceitas entregas atrasadas ou por email.
 - Os grupos podem escolher o tema do artigo dentre as opções disponíveis no roteiro.
-- Caso seja detectado quaisquer tipos de plágio o trabalho será zerado 
+- Caso seja detectado quaisquer tipos de plágio o trabalho será zerado.
 
 ## Instruções para os exercícios em grupos
 - Os grupos devem ser os mesmos até o final do semestre.
