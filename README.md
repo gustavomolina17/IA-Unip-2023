@@ -49,6 +49,12 @@
 - Não serão aceitas entregas individuais.
 - Mínimo: 2 integrantes / Máximo: 5 integrantes.
 
+## Instruções para o trabalho prático
+- Todas as instruções e orientações encontram-se na pasta do projeto.
+- Serão aceitos grupos com no mínimo 3 integrantes e no máximo 6 integrantes.
+- Todos os grupos deverão apresentar e explicar o programa em funcionamento no dia da prova NP1.
+- Posteriormente será aberta uma tarefa no teams para que o grupo faça o envio do código fonte.
+
 ## Avaliação NP2
 - Trabalho Prático
 - Lista de Exercícios
