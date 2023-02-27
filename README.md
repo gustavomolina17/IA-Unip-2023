@@ -15,6 +15,7 @@
     - Agentes Inteligentes
 - [x]  Aula 03
     - Resolução de Problemas por Meio de Busca
+    - https://drive.google.com/file/d/1LAFh1HXyl3TqZHWxCoa6UWnrV0yCNjX8/view?usp=share_link
 - [x]  Aula 04
     - Algoritmos Genéticos
 - [x]  Aula 05 
