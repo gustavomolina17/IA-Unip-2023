@@ -1,0 +1,44 @@
+:Base exsinta.hlp>Main
+:Title Ajuda do Expert SINTA
+1 Bem vindo
+2 O que há de novo na versão 1.1?=novo
+2 O que é o Expert SINTA=o_que_e
+2 Sobre o Expert SINTA=suporte
+1 Sobre sistemas especialistas
+2 Arquitetura de sistemas especialistas no Expert SINTA=arqsinta
+2 Regras de produção=use_regras
+2 Estrutura das regras no Expert SINTA=regras_struct
+2 Tratamento probabilístico
+3 Fatores de confiança=fatores
+3 Os fatores de confiança no Expert SINTA=cnfs
+3 Lidando com o desconhecido=desconhecido
+2 Como funciona uma consulta a um sistema especialista
+3 Conhecimento procedural x conhecimento declarativo=proced_declar
+3 O método de extração procedural de conhecimento do Expert SINTA=proced_exsinta
+3 Exemplo de encadeamento para trás=encadeamento_exemplo
+3 Variáveis univaloradas e multivaloradas=vars_unimulti
+3 Operadores e a avaliação de premissas=avaliapremissas
+3 Leitura adicional: conhecimento monotônico x conhecimento não-monotônico=monotonicidade
+1 Gerando sistemas especialistas no Expert SINTA
+2 Visão geral=criando
+2 Gerenciando bases=gerencia
+2 A janela "Knowledge In a Box"=kib
+2 Passo 1 - Construindo variáveis=vars
+2 Passo 2 - Regras=crie_regras
+2 Passo 3 - Elaboração de interface=perguntas
+2 Passo 4 - Determinação dos objetivos=objetivos
+2 Passo 5 - Informações adicionais=info
+2 Passo 6 - Textos didáticos=textos
+2 Opções de configuração=opcoes
+1 Fazendo consultas
+2 Visão geral=executegeral
+2 Visualizando regras=visualizar
+2 Uma consulta típica=executando
+2 Acompanhando variáveis durante uma consulta=vars_ver
+2 Guia rápido de execução=guia
+2 Entendendo os resultados apresentados=resultados
+1 Dicas
+2 Dependências entre variáveis=depende
+2 Simulando encadeamento para frente=simula_frente
+2 Digitação rápida=digitacao
+2 Quando a consulta trava=conflitos

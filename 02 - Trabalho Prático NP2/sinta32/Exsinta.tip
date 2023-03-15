@@ -1,0 +1,32 @@
+#Bem-vindo ao Expert SINTA, uma ferramenta visual para construção de sistemas especialistas.
+?O Expert SINTA é um software gratuito criado na Universidade Federal do Ceará.%s%s Para maiores informações, consulte o endereço%s  http://www.lia.ufc.br
+?A ajuda on-line do Expert SINTA traz informações sobre a teoria por trás dos sistemas especialistas.
+^Comece entendendo o conceito de variáveis e valores antes de implementar um sistema com o Expert SINTA.
+^Não é necessário colocar valores para variáveis do tipo Sim/Não.
+?A ordem das regras pode possuir uma influência vital sobre o funcionamento do sistema.
+^Mude a ordem das regras simplesmente clicando e arrastando aquela desejada. O mesmo vale para os objetivos.
+^Se você hover esquecido de criar alguma variável necessária para a regra editada no momento, abra a janela "Variáveis" mesmo com a regra aberta e acrescente-a.
+?O cálculo dos fatores de confiança no Expert SINTA é baseado na Teoria dos Conjuntos.
+^É possível mudar o modo pelo qual o Expert SINTA calcula fatores de confiança. Consulte o menu Exibir|Opções.
+^Arranje as barras de ferramentas do Expert SINTA como bem entender.
+?A ajuda on-line (seção de dicas) traz conselhos para uma digitação mais rápida e confortável de regras.
+^Na janela "Informações", pode-se usar o texto de abertura para exibir informações de direitos autorais.
+^Um arquivo de ajuda pode ser criado separadamente da base de conhecimento e associado a resultados de consulta por meio da janela "Informações".
+#Para criar um arquivo de ajuda, consulte documentação de terceiros. Toda linguagem de programação para Windows (como Delphi e Visual C++) traz essas informações.
+?A ordem na qual os valores aparecem durante uma pergunta é definida pela ordem na qual eles aparecem na janela Variáveis.
+^Para mudar a ordem na qual os valores aparecem na janela Variáveis, simplesmente clique sobre o valor desejado e arraste-o para a posição correta.
+?O Expert SINTA procura validar ou invalidar uma regra analisando o mínimo de premissas possíveis.
+^Para que o Expert SINTA sempre avalie todas as premissas de uma regra, mesmo quando esta não pode mais ser invalidada, vá em Exibir|Opções e clique na opção "Sempre avaliar premissas completamente".
+^Ao usar nomes de variáveis com espaços em branco e outros símbolos em uma fórmula matemática, coloque o nome da variável sempre entre "aspas duplas".
+^É possível proteger uma base de conhecimento contra leituras e modificações com o uso de uma senha. Vá ao menu Exibir|Opções.
+#O sistema de proteção por senhas do Expert SINTA não pretende ser uma proteção profissional, apenas indicar ao usuário os direitos que ele possui pelo uso da base de conhecimento.
+'"...inteligência artificial...um dos desafios mais extraordinários a serem enfrentados hoje pelo ser humano."%s   Edward Feigenbaum
+?O Expert SINTA possui também um manual disponível na Internet para download e impressão (formato Word 6.0). O endereço é http://www.lia.ufc.br
+^É permitido o uso livre do manual do Expert SINTA em outras publicações, inclusive em um manual escrito por você para um determinando sistema especialista.
+?A ordem dos objetivos também pode influenciar o comportamento do sistema especialista.
+^É possível mudar a ordem dos objetivos de modo análogo a outras situações, arrastando o objetivo desejado para a posição adequada dentro da janela Objetivos.
+?É possível simular encadeamento para frente com o Expert SINTA. Consulte a ajuda on-line (seção de dicas) para maiores informações.
+^Caso uma consulta "trave" em algum momento, verifique antes se não existe dependência circular entre as variáveis (no menu Depurar|Dependências...).
+^Para ferramentas mais genéricas para programação de sistemas especialistas, boas opções são as linguagens PROLOG e LISP.
+^Caso deseje imprimir a base de conhecimento a partir de um editor de textos, de modo a apresentá-la como bem entender, primeiro salve-a como um arquivo texto (menu Arquivo|Exportar) e abra-a no editor desejado.
+'"Espero que o computador jamais seja capaz de 'pensar' como nós, porque temos a vontade política e social de impedir isso."%s   Seymour Papert
