@@ -16,6 +16,7 @@
 - [x]  Aula 03
     - Resolução de Problemas por Meio de Busca
     - https://drive.google.com/file/d/1LAFh1HXyl3TqZHWxCoa6UWnrV0yCNjX8/view?usp=share_link
+    - Abra a Aula 03 v2 caso ainda tenha problemas com o arquivo.
 - [x]  Aula 04
     - Algoritmos Genéticos
 - [x]  Aula 05 
