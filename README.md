@@ -24,12 +24,14 @@
 - [x]  Aula 06
     - Sistemas Especialistas
 - [x] Aula 07
+    - Raciocinio Baseado em Casos
+- [x] Aula 08
     - Conceitos Básicos de Planejamento
-- [x]  Aula 08
-    - Lógica Nebulosa
 - [x]  Aula 09
-    - IA em Games
+    - Lógica Nebulosa
 - [x]  Aula 10
+    - IA em Games
+- [x]  Aula 11
     - Aprendizado de Máquina
 
 ## Avaliação NP1
