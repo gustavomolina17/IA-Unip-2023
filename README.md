@@ -60,8 +60,8 @@
 - Posteriormente será aberta uma tarefa no teams para que o grupo faça o envio do código fonte.
 
 ## Avaliação NP2
-- Trabalho Prático Expert Sinta - (Valor:5,0) - Mínimo: 3 integrantes / Máximo: 5 integrantes.
-- Lista de Exercícios
+- Trabalho Prático Expert Sinta - (Valor:7,0) - Mínimo: 3 integrantes / Máximo: 6 integrantes.
+- 3 exercícios em grupo (Valendo 1 pt cada).
 
 
 
