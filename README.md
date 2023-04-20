@@ -26,11 +26,11 @@
 - [x] Aula 07
     - Raciocinio Baseado em Casos
 - [x] Aula 08
-    - Conceitos Básicos de Planejamento
-- [x]  Aula 09
     - Lógica Nebulosa
-- [x]  Aula 10
+- [x]  Aula 09
     - IA em Games
+- [x]  Aula 10
+    - Conceitos Básicos de Planejamento
 - [x]  Aula 11
     - Aprendizado de Máquina
 
